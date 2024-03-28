@@ -9,5 +9,5 @@ for i in range(len(dates)):
             aux = dates[i]
             dates[i], dates[j] = dates[j], aux
 
-print(f"La persona con menor edad es: {dates[0]}")
+print(f"el usuario con menor edad es: {dates[0]}")
 print(f"La persona con mayor edad es: {dates[-1]}")
