@@ -4,5 +4,5 @@ numero = int(input("Ingrese un numero: "))
 if numero % 2 == 0:
              print("En numero ", numero, " es par.\n")         
 elif numero % 2 == 1:
-    print("En numero ", numero, " es inpar.\n")
+    print("En numero ", numero, " es impar.\n")
 print("Fin.")    
